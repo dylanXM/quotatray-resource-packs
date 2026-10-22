@@ -1,0 +1,32 @@
+{
+  "manifestFormat": 1,
+  "channel": "stable",
+  "generatedAt": "2026-10-22T14:56:53Z",
+  "packs": [
+    {
+      "id": "pi",
+      "name": "Pi",
+      "version": "1.0.0",
+      "file": "packs/pi-1.0.0.json",
+      "size": 1772,
+      "sha256": "5d85f3f28a6c169f8a56ca57791d91d296934a1c4671a0e5f0c4bfbe495b771d",
+      "minCoreVersion": "1.0.0",
+      "summary": "Pi (pi.dev) session transcripts, parsed from the fixed home-relative .pi/agent/sessions root."
+    },
+    {
+      "id": "muse",
+      "name": "Muse Code",
+      "version": "1.0.0",
+      "file": "packs/muse-1.0.0.json",
+      "size": 1968,
+      "sha256": "5b3cbddd432799ba90e2ad7adec7d63100d55aa204178361a5e9ce7e6fe34de2",
+      "minCoreVersion": "1.0.0",
+      "summary": "Muse Code session event streams under the XDG data home (muse/sessions)."
+    }
+  ],
+  "signature": {
+    "alg": "ed25519",
+    "keyId": "quotatray-packs-2026",
+    "value": "XabjfnQIGENevXHLk43+RCXfOgdo0KRr5eMkmoXKZEBTx+Vc/hKF04diTHYa4+6wY/AWvjyooj08HMw6s05/Bw=="
+  }
+}
